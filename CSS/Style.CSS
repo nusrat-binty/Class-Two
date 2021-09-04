@@ -1,0 +1,49 @@
+
+.box1{
+	background-color: peachpuff;
+	margin: 100px;
+	padding:30px;
+	border: 30px;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2px;
+	}
+
+
+	h1{
+		/* text-align: center; */
+		color: hotpink;
+		background-color: white;
+		}
+
+	p{font-size:12px;
+		color:deeppink}
+
+		
+.box2{
+ background-color: #a98289;
+ font-style: normal;
+ margin: 100px;
+ padding:30px;
+ border: 30px;
+ width: 500px;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 0;
+ border-radius: 50px;
+ box-shadow: 2px 5px 20px 0px black;
+ }
+
+    .red {color: red;}
+    .orange{
+    color: #ff9900;
+}
+    .yellow{
+    color: #ffbc00;
+}
+a{
+    font-size: x-large;
+    background-color: white;
+    font-style: italic;
+}
